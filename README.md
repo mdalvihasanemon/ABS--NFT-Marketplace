@@ -11,12 +11,25 @@ Leveraging smart contracts, decentralized storage, and cross-chain compatibility
 
 ## 🌐 Website Preview
 
-![ABS NFT Marketplace Screenshot](https://your-image-host.com/path-to-your-screenshot.png)
-*Screenshot of the live ABS NFT Marketplace homepage*
+![ABS NFT Marketplace Screenshot](https://github.com/user-attachments/assets/d62a06fa-b5ff-492c-adc3-0ff1ebd9afde)
+
+*Screenshot of the live ABS NFT Marketplace *
+![Image](https://github.com/user-attachments/assets/1b082cde-485e-427e-8f19-5d8f46fe0ba1)
+
 
 ---
+<img width="838" height="375" alt="Image" src="https://github.com/user-attachments/assets/974d3358-2323-406e-9ae2-baf1ba8adfe2" />
 
-*(Then continue with your existing Features section...)*
+<img width="757" height="527" alt="Image" src="https://github.com/user-attachments/assets/158c587a-ce64-4db2-bdeb-2e5cad42d8ca" />
+
+<img width="1169" height="428" alt="Image" src="https://github.com/user-attachments/assets/f679c87d-c0c9-4374-a222-7a7524fac249" />
+
+<img width="1364" height="645" alt="Image" src="https://github.com/user-attachments/assets/56ced9e1-f2e9-43ef-90c1-0b7b9e5989ce" />
+
+<img width="1365" height="586" alt="Image" src="https://github.com/user-attachments/assets/40de6d2e-bee2-4493-bd80-183af62fbe13" />
+
+<img width="1359" height="599" alt="Image" src="https://github.com/user-attachments/assets/20cb76f4-2fc5-41c1-81cd-297512a95706" />
+
 
 ---
 
