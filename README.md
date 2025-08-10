@@ -266,10 +266,10 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 * Tahmid Hasan Rafi — [tahmidhasanrafi9@gmail.com](mailto:tahmidhasanrafi9@gmail.com)
 
 **Website:**
-[https://mdalvihasanemon.blogspot.com](https://mdalvihasanemon.blogspot.com)
+[Md Alvi Hasan Emon](https://alvihasanemon.blogspot.com/)
 
 **LinkedIn:**
-[https://linkedin.com/in/mdalvihasanemon](https://linkedin.com/in/mdalvihasanemon)
+[Md Alvi Hasan Emon](https://www.linkedin.com/in/alvi-hasan-emon)
 
 ---
 
