@@ -1,12 +1,26 @@
 
-
 # 🚀 ABS NFT Marketplace
 
 A cutting-edge decentralized NFT marketplace built on blockchain technology, enabling users to **mint, buy, sell, and trade NFTs** securely and transparently. Designed for creators, collectors, and investors, this platform offers a seamless experience with modern UI/UX and powerful Web3 integration.
 
 Leveraging smart contracts, decentralized storage, and cross-chain compatibility, this project aims to foster a vibrant ecosystem for digital assets with trustless transactions and transparent provenance.
 
+**Live Demo:** [https://abs-nft-platform.onrender.com/](https://abs-nft-platform.onrender.com/)
+
 ---
+
+## 🌐 Website Preview
+
+![ABS NFT Marketplace Screenshot](https://your-image-host.com/path-to-your-screenshot.png)
+*Screenshot of the live ABS NFT Marketplace homepage*
+
+---
+
+*(Then continue with your existing Features section...)*
+
+---
+
+If you want, I can help you generate a polished website screenshot image or give tips on capturing and hosting the screenshot for your README. Just let me know!
 
 ## 📌 Features
 
@@ -234,11 +248,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📞 Contact
 
 **Author:** MD ALVI HASAN EMON
--
+
 **Email:** [alvihasan179@gmail.com](mailto:alvihasan179@gmail.com)
--
+
 **Website:** [https://mdalvihasanemon.blogspot.com](https://mdalvihasanemon.blogspot.com)
--
+
 **LinkedIn:** [https://linkedin.com/in/mdalvihasanemon](https://linkedin.com/in/mdalvihasanemon)
 
 
