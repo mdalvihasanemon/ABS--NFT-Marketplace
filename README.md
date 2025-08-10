@@ -257,17 +257,22 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
+
 ## 📞 Contact
 
-**Author:** MD ALVI HASAN EMON
+**Authors:**
 
-**Email:** [alvihasan179@gmail.com](mailto:alvihasan179@gmail.com)
+* MD Alvi Hasan Emon — [alvihasan179@gmail.com](mailto:alvihasan179@gmail.com)
+* Tahmid Hasan Rafi — [tahmidhasanrafi9@gmail.com](mailto:tahmidhasanrafi9@gmail.com)
 
-**Website:** [https://mdalvihasanemon.blogspot.com](https://mdalvihasanemon.blogspot.com)
+**Website:**
+[https://mdalvihasanemon.blogspot.com](https://mdalvihasanemon.blogspot.com)
 
-**LinkedIn:** [https://linkedin.com/in/mdalvihasanemon](https://linkedin.com/in/mdalvihasanemon)
-
+**LinkedIn:**
+[https://linkedin.com/in/mdalvihasanemon](https://linkedin.com/in/mdalvihasanemon)
 
 ---
+
+
 
 
