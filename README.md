@@ -209,14 +209,7 @@ For further support, open an issue on GitHub or join our Discord community (link
 
 ---
 
-## 🌍 Community & Support
 
-* **GitHub Issues:** Report bugs or request features at [Issues](https://github.com/yourusername/nft-marketplace/issues).
-* **Discord Server:** Join the conversation, get help, and contribute: \[Discord Invite Link]
-* **Twitter:** Follow for updates and announcements: \[[https://twitter.com/yourhandle](https://twitter.com/yourhandle)]
-* **Documentation:** Extended docs available at [https://yourwebsite.com/docs](https://yourwebsite.com/docs)
-
----
 
 ## 🤝 Contributing
 
@@ -241,9 +234,12 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📞 Contact
 
 **Author:** MD ALVI HASAN EMON
-**Email:** [your@email.com](mailto:alvihasan179@gmail.com)
-**Website:** [https://yourwebsite.com](https://mdalvihasanemin.blogspot.com)
-**LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/mdalvihasanemon)
+-
+**Email:** [alvihasan179@gmail.com](mailto:alvihasan179@gmail.com)
+-
+**Website:** [https://mdalvihasanemon.blogspot.com](https://mdalvihasanemon.blogspot.com)
+-
+**LinkedIn:** [https://linkedin.com/in/mdalvihasanemon](https://linkedin.com/in/mdalvihasanemon)
 
 
 ---
