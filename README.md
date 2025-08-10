@@ -9,31 +9,30 @@ Leveraging smart contracts, decentralized storage, and cross-chain compatibility
 
 ---
 
-## 🌐 Website Preview
+## 🌐 ABS NFT Marketplace Preview
+![Image](https://github.com/user-attachments/assets/e0870ad7-e205-48bf-8783-205259402947)
 
-![ABS NFT Marketplace Screenshot](https://github.com/user-attachments/assets/d62a06fa-b5ff-492c-adc3-0ff1ebd9afde)
+## 🌐 The live ABS NFT Marketplace Website Preview
 
-*Screenshot of the live ABS NFT Marketplace *
-![Image](https://github.com/user-attachments/assets/1b082cde-485e-427e-8f19-5d8f46fe0ba1)
+<div style="display: flex; flex-wrap: nowrap; gap: 10px; overflow-x: auto;">
 
+<img src="https://github.com/user-attachments/assets/1b082cde-485e-427e-8f19-5d8f46fe0ba1" alt="Screenshot 1" width="250" />
+
+<img src="https://github.com/user-attachments/assets/974d3358-2323-406e-9ae2-baf1ba8adfe2" alt="Screenshot 2" width="250" />
+
+<img src="https://github.com/user-attachments/assets/158c587a-ce64-4db2-bdeb-2e5cad42d8ca" alt="Screenshot 3" width="250" />
+
+<img src="https://github.com/user-attachments/assets/f679c87d-c0c9-4374-a222-7a7524fac249" alt="Screenshot 4" width="250" />
+
+<img src="https://github.com/user-attachments/assets/56ced9e1-f2e9-43ef-90c1-0b7b9e5989ce" alt="Screenshot 5" width="250" />
+
+<img src="https://github.com/user-attachments/assets/40de6d2e-bee2-4493-bd80-183af62fbe13" alt="Screenshot 6" width="250" />
+
+<img src="https://github.com/user-attachments/assets/20cb76f4-2fc5-41c1-81cd-297512a95706" alt="Screenshot 7" width="250" />
+
+</div>
 
 ---
-<img width="838" height="375" alt="Image" src="https://github.com/user-attachments/assets/974d3358-2323-406e-9ae2-baf1ba8adfe2" />
-
-<img width="757" height="527" alt="Image" src="https://github.com/user-attachments/assets/158c587a-ce64-4db2-bdeb-2e5cad42d8ca" />
-
-<img width="1169" height="428" alt="Image" src="https://github.com/user-attachments/assets/f679c87d-c0c9-4374-a222-7a7524fac249" />
-
-<img width="1364" height="645" alt="Image" src="https://github.com/user-attachments/assets/56ced9e1-f2e9-43ef-90c1-0b7b9e5989ce" />
-
-<img width="1365" height="586" alt="Image" src="https://github.com/user-attachments/assets/40de6d2e-bee2-4493-bd80-183af62fbe13" />
-
-<img width="1359" height="599" alt="Image" src="https://github.com/user-attachments/assets/20cb76f4-2fc5-41c1-81cd-297512a95706" />
-
-
----
-
-If you want, I can help you generate a polished website screenshot image or give tips on capturing and hosting the screenshot for your README. Just let me know!
 
 ## 📌 Features
 
