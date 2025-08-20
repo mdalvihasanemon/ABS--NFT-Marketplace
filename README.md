@@ -1,5 +1,5 @@
 
-# 🚀 ABS NFT Marketplace
+# 🚀 ABS NFT Platform
 
 A cutting-edge decentralized NFT marketplace built on blockchain technology, enabling users to **mint, buy, sell, and trade NFTs** securely and transparently. Designed for creators, collectors, and investors, this platform offers a seamless experience with modern UI/UX and powerful Web3 integration.
 
